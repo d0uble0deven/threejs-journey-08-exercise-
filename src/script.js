@@ -22,7 +22,7 @@ const geometry = new THREE.BufferGeometry()
 //     1, 0, 0
 // ])
 
-const count = 1000
+const count = 2000
 const positionsArray = new Float32Array(count * 3 * 3)
 
 for (let i = 0; i < count * 3 * 3; i++) {
